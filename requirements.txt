@@ -1,0 +1,3 @@
+# Core library has zero mandatory dependencies (uses Python standard library)
+# Optional asymmetric crypto support:
+# cryptography>=3.4.0
